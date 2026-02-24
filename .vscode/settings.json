@@ -1,0 +1,17 @@
+{
+  "github.copilot.enable": false,
+  "github.copilot.inlineSuggest.enable": false,
+  "github.copilot.experimentalSuggest": false,
+  "editor.inlineSuggest.enabled": false,
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.suggest.showKeywords": false,
+  "editor.suggest.showSnippets": false,
+  "editor.suggest.showWords": false,
+  "visualstudiointellicode.completions.enabled": false,
+  "tabnine.experimentalAutoComplete": false
+}
